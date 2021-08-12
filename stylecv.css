@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+img{
+    border-radius: 50%;
+}
+
+h1 {
+    color: orangered;
+      
+}
+h2 {text-align: center;
+    background-color: rgb(255, 255, 255);
+  }
+  h2 {
+    color: orangered;
+      
+}
